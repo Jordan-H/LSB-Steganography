@@ -1,0 +1,18 @@
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\bin\Debug\SteganographyAssignment.exe.config
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\bin\Debug\SteganographyAssignment.exe
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\bin\Debug\SteganographyAssignment.pdb
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.Form1.resources
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.Properties.Resources.resources
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.csproj.GenerateResource.Cache
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.exe
+C:\Users\Jordan H\Desktop\VS_Stuff\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.pdb
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\bin\Debug\SteganographyAssignment.exe.config
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\bin\Debug\SteganographyAssignment.exe
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\bin\Debug\SteganographyAssignment.pdb
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.dcstego.resources
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.Properties.Resources.resources
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.exe
+C:\Users\Alex\Documents\BCIT\Term7\COMP8505\Assignments\a2\stegoV2\SteganographyAssignment\SteganographyAssignment\obj\Debug\SteganographyAssignment.pdb
